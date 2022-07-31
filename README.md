@@ -1,3 +1,3 @@
 # Comandos GIT 
 
-![Imagem Git](https://medium.com/@rgdev/git-na-pr%C3%A1tica-parte-1-subindo-projeto-para-o-github-133e294221ae)
+![Imagem Git](https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png)
