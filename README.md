@@ -1,4 +1,5 @@
 # Comandos GIT 
 
-git init | Funcionalidade 
+Comando  | Funcionalidade 
 -------- | --------------
+git init | cria um novo repositório do GIT
