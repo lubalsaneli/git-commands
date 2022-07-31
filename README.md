@@ -1,6 +1,12 @@
 # Comandos GIT 
 
-Comando  | Funcionalidade 
--------- | --------------
-git init | cria um novo repositório do GIT
-git remote add origin "link" | permite criar uma conexão com o repositório
+Comando  | 
+-------- | 
+git init | 
+git remote add origin "link" | 
+git status | 
+git add | 
+git commit -m "nome-commit" |
+git branch -M "novo-nome" |
+git push origin main |
+git pull
